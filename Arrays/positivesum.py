@@ -1,4 +1,6 @@
-#finds the largest sum of a continuous sub array in array
+#finds the largest sum of a continuous sub array in array.
+#Input: Array if positive and negative ints 
+#output: Largest sum of subarray
 
 def positive_sum(arr):
     best_sum = 0
