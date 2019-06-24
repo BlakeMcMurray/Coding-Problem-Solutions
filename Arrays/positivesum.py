@@ -1,3 +1,5 @@
+#finds the largest sum of a continuous sub array in array
+
 def positive_sum(arr):
     best_sum = 0
     for i in range(len(arr)):
